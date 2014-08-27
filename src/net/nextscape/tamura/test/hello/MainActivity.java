@@ -83,6 +83,5 @@ public class MainActivity extends ActionBarActivity implements OnClickListener {
 		alertDialog.setMessage(message);
 		alertDialog.create();
 		alertDialog.show();
-
 	}
 }
